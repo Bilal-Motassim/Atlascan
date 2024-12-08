@@ -19,6 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "Atlascan_android"
-include(":app")
- 
+rootProject.name = "Atlascan"
+include ':app'
