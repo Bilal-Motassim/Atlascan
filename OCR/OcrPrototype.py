@@ -4,6 +4,7 @@ from PIL import Image
 from paddleocr import PaddleOCR
 import os
 
+#Amelioration de la visibilité de l'image pour le model Paddle
 def enhance_image_for_ocr(image_path):
     image = cv2.imread(image_path)
 
