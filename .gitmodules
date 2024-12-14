@@ -1,0 +1,9 @@
+[submodule "Atlascan_android"]
+	path = Atlascan_android
+	url = https://github.com/Bilal-Motassim/Atlascan_android.git
+[submodule "Atlascan_ocr"]
+	path = Atlascan_ocr
+	url = https://github.com/Bilal-Motassim/Atlascan_ocr.git
+[submodule "Atlascan_spring"]
+	path = Atlascan_spring
+	url = https://github.com/Bilal-Motassim/Atlascan_spring.git
