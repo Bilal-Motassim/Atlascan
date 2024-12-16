@@ -1,6 +1,6 @@
-[submodule "Atlascan_android"]
-	path = Atlascan_android
-	url = https://github.com/Bilal-Motassim/Atlascan_android.git
+[submodule "Atlascan_flutter"]
+	path = Atlascan_flutter
+	url = https://github.com/Bilal-Motassim/Atlascan_flutter
 [submodule "Atlascan_ocr"]
 	path = Atlascan_ocr
 	url = https://github.com/Bilal-Motassim/Atlascan_ocr.git
